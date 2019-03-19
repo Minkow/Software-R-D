@@ -9,4 +9,4 @@ Zhong Lvbo, 钟绿波, zhonglvbo
 
 Ma Zhenwen, 马振文, oklaM
 
-Luo Yikang, 罗艺康, 
+Luo Yikang, 罗艺康, luoyikang
