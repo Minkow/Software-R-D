@@ -1,6 +1,8 @@
 # Software-R-D
 Team lab work for Software R&amp;D course
 
+After our online & offline discuss, we dicide to implement a Knowledge Graph Manage System.
+
 Team Members:
 
 Chen Minyu, 陈旻宇, Minkow
